@@ -63,12 +63,12 @@ function Component1(props: any) {
                               </div>
                          </div>
                          </div>
-               {/* section 4 */}
+            
                     <div className="body__section__4">
                       <div className="body__section__4__1">
                         </div>   
                       
-                      <div className="body__section__4__2">
+                      <div className="body__section__4__2 margin-check">
                            <div className='body__section__4__2__1'>
                            Arbetsmijlöplan
                            </div>
@@ -89,98 +89,90 @@ function Component1(props: any) {
                               </div>
                          </div>
                          </div>
-                         {/* End of section 4 */}
-
-                         {/* section 5 */}
-
-                   <div className="body__section__5">
-                      <div className="body__section__5__1">
+                      
+                      <div className="body__section__4">
+                      <div className="body__section__4__1__light">
                         </div>   
                       
-                      <div className="body__section__5__2">
-                           <div className='body__section__5__2__1'>
+                      <div className="body__section__4__2 margin-check">
+                           <div className='body__section__4__2__1'>
                            Arbetsmijlöplan
                            </div>
-                           <div className='body__section__5__2__2'>
+                           <div className='body__section__4__2__2'>
                            Upprätta
                               </div>
-                              <div className='body__section__5__2__3'>
-                                    Status
+                              <div className='body__section__4__2__3'>
+                             
                               </div>
-                              <div className='body__section__5__2__4'>
+                              <div className='body__section__4__2__4'>
                                    
                               </div>
-                              <div className='body__section__5__2__5'>
+                              <div className='body__section__4__2__5 body__section__4__2__5__light'>
                               Johan Kvick
                               </div>
-                              <div className='body__section__5__2__6'>
-                                
+                              <div className='body__section__4__2__6'>
+                              
                               </div>
                          </div>
                          </div>
-                     {/* End of section 5 */}
-                           {/* section 5 */}
-
-                   <div className="body__section__5">
-                      <div className="body__section__5__1">
+                        
+                      <div className="body__section__4">
+                      <div className="body__section__4__1__light">
                         </div>   
                       
-                      <div className="body__section__5__2">
-                           <div className='body__section__5__2__1'>
+                      <div className="body__section__4__2 margin-check">
+                           <div className='body__section__4__2__1'>
                            Arbetsmijlöplan
                            </div>
-                           <div className='body__section__5__2__2'>
+                           <div className='body__section__4__2__2'>
                            Upprätta
                               </div>
-                              <div className='body__section__5__2__3'>
-                                    Status
+                              <div className='body__section__4__2__3'>
+                             
                               </div>
-                              <div className='body__section__5__2__4'>
+                              <div className='body__section__4__2__4'>
                                    
                               </div>
-                              <div className='body__section__5__2__5'>
+                              <div className='body__section__4__2__5 body__section__4__2__5__light'>
                               Johan Kvick
                               </div>
-                              <div className='body__section__5__2__6'>
-                                
+                              <div className='body__section__4__2__6'>
+                              
                               </div>
                          </div>
                          </div>
-                     {/* End of section 5 */}
-                           {/* section 5 */}
-
-                   <div className="body__section__5">
-                      <div className="body__section__5__1">
-                        </div>   
-                      
-                      <div className="body__section__5__2">
-                           <div className='body__section__5__2__1'>
-                           Arbetsmijlöplan
-                           </div>
-                           <div className='body__section__5__2__2'>
-                           Upprätta
-                              </div>
-                              <div className='body__section__5__2__3'>
-                                    Status
-                              </div>
-                              <div className='body__section__5__2__4'>
-                                   
-                              </div>
-                              <div className='body__section__5__2__5'>
-                              Johan Kvick
-                              </div>
-                              <div className='body__section__5__2__6'>
-                                
-                              </div>
-                         </div>
-                         </div>
-                     {/* End of section 5 */}
-                     {/* section 4 */}
+                     
                     <div className="body__section__4">
+                      <div className="body__section__4__1__light">
+                        </div>   
+                      
+                      <div className="body__section__4__2 margin-check">
+                           <div className='body__section__4__2__1'>
+                           Arbetsmijlöplan
+                           </div>
+                           <div className='body__section__4__2__2'>
+                           Upprätta
+                              </div>
+                              <div className='body__section__4__2__3'>
+                            
+                              </div>
+                              <div className='body__section__4__2__4'>
+                                   
+                              </div>
+                              <div className='body__section__4__2__5 body__section__4__2__5__light'>
+                              Johan Kvick
+                              </div>
+                              <div className='body__section__4__2__6'>
+                              
+                              </div>
+                         </div>
+                         </div>
+                       
+                      <div className="body__section__4">
                       <div className="body__section__4__1">
                         </div>   
                       
-                      <div className="body__section__4__2">
+                      <div className="body__section__4__2 margin-check">
                            <div className='body__section__4__2__1'>
                            Arbetsmijlöplan
                            </div>
@@ -201,13 +193,12 @@ function Component1(props: any) {
                               </div>
                          </div>
                          </div>
-                         {/* End of section 4 */}
-                         {/* section 4 */}
-                    <div className="body__section__4">
+                        
+                      <div className="body__section__4">
                       <div className="body__section__4__1">
                         </div>   
                       
-                      <div className="body__section__4__2">
+                      <div className="body__section__4__2 margin-check">
                            <div className='body__section__4__2__1'>
                            Arbetsmijlöplan
                            </div>
@@ -228,43 +219,38 @@ function Component1(props: any) {
                               </div>
                          </div>
                          </div>
-                         {/* End of section 4 */}
-                             {/* End of section 5 */}
-                           {/* section 5 */}
-
-                   <div className="body__section__5">
-                      <div className="body__section__5__1">
+                        
+                         <div className="body__section__4">
+                      <div className="body__section__4__1__light">
                         </div>   
                       
-                      <div className="body__section__5__2">
-                           <div className='body__section__5__2__1'>
+                      <div className="body__section__4__2 margin-check">
+                           <div className='body__section__4__2__1'>
                            Arbetsmijlöplan
                            </div>
-                           <div className='body__section__5__2__2'>
+                           <div className='body__section__4__2__2'>
                            Upprätta
                               </div>
-                              <div className='body__section__5__2__3'>
-                                    Status
+                              <div className='body__section__4__2__3'>
+                             
                               </div>
-                              <div className='body__section__5__2__4'>
+                              <div className='body__section__4__2__4'>
                                    
                               </div>
-                              <div className='body__section__5__2__5'>
+                              <div className='body__section__4__2__5 body__section__4__2__5__light '>
                               Johan Kvick
                               </div>
-                              <div className='body__section__5__2__6'>
-                                
+                              <div className='body__section__4__2__6'>
+                              
                               </div>
                          </div>
                          </div>
-                     {/* End of section 5 */}
-
-                       {/* new section */}
-
-                     <div className="body__section__n">
+          
+                         <div className="body__section__f">
                     <p>Ej obligatoriska –</p>
                 </div>
-                {/* section 3 repeat */}
+
+
                 <div className="body__section__3">
                       <div className="body__section__3__1">
                            Done
@@ -291,17 +277,12 @@ function Component1(props: any) {
                               </div>
                          </div>
                          </div>
-
-                {/* End of section 3 repeat */}
-
-                {/* section 4 and 5 repeat */}
-
- {/* section 4 */}
- <div className="body__section__4">
+            
+                    <div className="body__section__4">
                       <div className="body__section__4__1">
                         </div>   
                       
-                      <div className="body__section__4__2">
+                      <div className="body__section__4__2 margin-check">
                            <div className='body__section__4__2__1'>
                            Arbetsmijlöplan
                            </div>
@@ -322,96 +303,88 @@ function Component1(props: any) {
                               </div>
                          </div>
                          </div>
-                         {/* End of section 4 */}
-
-                         {/* section 5 */}
-
-                   <div className="body__section__5">
-                      <div className="body__section__5__1">
+                      
+                      <div className="body__section__4">
+                      <div className="body__section__4__1__light">
                         </div>   
                       
-                      <div className="body__section__5__2">
-                           <div className='body__section__5__2__1'>
+                      <div className="body__section__4__2 margin-check">
+                           <div className='body__section__4__2__1'>
                            Arbetsmijlöplan
                            </div>
-                           <div className='body__section__5__2__2'>
+                           <div className='body__section__4__2__2'>
                            Upprätta
                               </div>
-                              <div className='body__section__5__2__3'>
-                                    Status
+                              <div className='body__section__4__2__3'>
+                              Klart
                               </div>
-                              <div className='body__section__5__2__4'>
+                              <div className='body__section__4__2__4'>
                                    
                               </div>
-                              <div className='body__section__5__2__5'>
+                              <div className='body__section__4__2__5'>
                               Johan Kvick
                               </div>
-                              <div className='body__section__5__2__6'>
-                                
+                              <div className='body__section__4__2__6'>
+                              
                               </div>
                          </div>
                          </div>
-                     {/* End of section 5 */}
-                           {/* section 5 */}
-
-                   <div className="body__section__5">
-                      <div className="body__section__5__1">
+                        
+                         <div className="body__section__4">
+                      <div className="body__section__4__1__light">
                         </div>   
                       
-                      <div className="body__section__5__2">
-                           <div className='body__section__5__2__1'>
+                      <div className="body__section__4__2 margin-check">
+                           <div className='body__section__4__2__1'>
                            Arbetsmijlöplan
                            </div>
-                           <div className='body__section__5__2__2'>
+                           <div className='body__section__4__2__2'>
                            Upprätta
                               </div>
-                              <div className='body__section__5__2__3'>
-                                    Status
+                              <div className='body__section__4__2__3'>
+                              Klart
                               </div>
-                              <div className='body__section__5__2__4'>
+                              <div className='body__section__4__2__4'>
                                    
                               </div>
-                              <div className='body__section__5__2__5'>
+                              <div className='body__section__4__2__5'>
                               Johan Kvick
                               </div>
-                              <div className='body__section__5__2__6'>
-                                
+                              <div className='body__section__4__2__6'>
+                              
                               </div>
                          </div>
                          </div>
-                     {/* End of section 5 */}
-                           {/* section 5 */}
-
-                   <div className="body__section__5">
-                      <div className="body__section__5__1">
+                        
+          
+                         <div className="body__section__4">
+                      <div className="body__section__4__1__light">
                         </div>   
                       
-                      <div className="body__section__5__2">
-                           <div className='body__section__5__2__1'>
+                      <div className="body__section__4__2 margin-check">
+                           <div className='body__section__4__2__1'>
                            Arbetsmijlöplan
                            </div>
-                           <div className='body__section__5__2__2'>
+                           <div className='body__section__4__2__2'>
                            Upprätta
                               </div>
-                              <div className='body__section__5__2__3'>
-                                    Status
+                              <div className='body__section__4__2__3'>
+                              Klart
                               </div>
-                              <div className='body__section__5__2__4'>
+                              <div className='body__section__4__2__4'>
                                    
                               </div>
-                              <div className='body__section__5__2__5'>
+                              <div className='body__section__4__2__5'>
                               Johan Kvick
                               </div>
-                              <div className='body__section__5__2__6'>
-                                
+                              <div className='body__section__4__2__6'>
+                              
                               </div>
                          </div>
                          </div>
-                     {/* End of section 5 */}
-
-
-                {/* End of section 4 and 5 repeat */}
-
+                        
+          
+          
           </div>
         </div>
     )
